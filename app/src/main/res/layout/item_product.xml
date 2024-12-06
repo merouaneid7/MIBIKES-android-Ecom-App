@@ -13,7 +13,7 @@
         android:id="@+id/productImage"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@drawable/sample_product_image" />
+        android:src="@drawable/button_background" />
 
     <!-- Product Name and Price -->
     <LinearLayout
