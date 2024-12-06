@@ -1,0 +1,10 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:fontFamily">@font/oswaldbold</item>
+        <item name="fontFamily">@font/oswaldbold</item>
+    </style>
+
+</resources>
